@@ -17,6 +17,6 @@
 
   <p id="result">Your BMI will appear here.</p>
 
-  <script src="JS.js"></script>
+  <script src="BMI.js"></script>
 </body>
 </html>
